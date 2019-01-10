@@ -1,0 +1,111 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.checkoutnow a {
+    color: #7ccfe8;
+    /* padding-top: 20px; */
+}
+
+.checkoutnow button.btn.btn-default.btn-block {
+    background: #ff789e;
+    color: white;
+    height: 43px;
+    border-bottom: 4px solid #bb3e3e;
+    margin-bottom: 15px;
+}
+
+.table_price2 span.vat {
+    font-weight: 100;
+}
+
+.table_price2 span.col.total {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.table_price span.col.text-right.ng-binding,.table_price2 span.col.text-right.ng-binding {
+    /* text-align: right !important; */
+    float: right;
+}
+
+.table_price .table_price_row.row1 {
+    padding: 5px 0;
+}
+
+.table_price2 .table_price_row.row1 {
+    padding: 17px 0;
+}
+
+.table_price {
+    border-bottom: 1px solid #f1f1f1;
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+.headdings-info-cart {
+    border-bottom: 1px solid #f1f1f1;
+    padding: 5px 0;
+}
+
+.headdings-info-cart h5 {
+    font-weight: bold;
+}
+
+.info-cart {
+    background: white;
+    padding: 6px 18px 18px 18px;
+}
+
+.del i.fa.fa-times {
+    color: #ff789e;
+}
+
+.price-tab p.ng-binding {
+    color: #ff789e;
+    font-weight: bold;
+}
+
+.name-tab p.shopping-name a.ng-binding {
+    color:#ff789e;
+    font-weight:bold
+}
+
+.name-tab p.shopping-name {
+    font-size: 13px;
+}
+
+.content-list-cart thead.head-table-moki tr th {
+    /* padding: 18px 10px; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.content-list-cart tbody tr td {
+    /* padding: 18px 10px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.headdings-cart {
+    padding: 8px 0;
+    border-bottom: 2px solid #f1f1f1;
+}
+
+.headdings-cart h5 {
+    font-weight: bold;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.products-list-cart {
+    background: white;
+    padding: 0px 8px;
+}
+
+.main-shopping-carts {
+    background: #f1f1f1;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
